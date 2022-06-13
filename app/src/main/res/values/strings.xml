@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fooedtra</string>
+    <string name="foedtra">Foedtra</string>
+    <string name="introduce1">Hallo</string>
+    <string name="introduce2">Please login first via</string>
+    <string name="username">username</string>
+    <string name="logout_btn">Logout</string>
+    <string name="introduce">Hi,</string>
+    <string name="resourcetxt_name">name</string>
+    <string name="greeting">greeting</string>
+    <string name="lbl_set_profile_photo">Set profile image</string>
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+    <string name="dpname">dpname</string>
+    <string name="email">email</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Galery</string>
+</resources>
